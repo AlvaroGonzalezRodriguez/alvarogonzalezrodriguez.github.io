@@ -4,7 +4,6 @@ description:        My portfolio
 author:             Álvaro González Rodríguez
 baseurl:            ""
 url:                "https://alvarogonzalezrodriguez.github.io"
-theme:              jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   
