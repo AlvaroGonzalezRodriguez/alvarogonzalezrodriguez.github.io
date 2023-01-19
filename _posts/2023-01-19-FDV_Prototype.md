@@ -98,7 +98,7 @@ alu0101202556
 <img src="/img/posts/movement3.gif" alt="Platformer" width="700"/>
 
 
- * Atack
+ * Attack
 
 <p>The player needs to defend himself, so I created some actions to help him! If the player can attack, it can do a basic 2 attack combo or, if he has done all the conditions, he can shoot a powerful attack. All of this actions end with an animation event, like the knockback state.</p>
 <p>To record when the character hit something, there is a second collider who activates when the player is doing an attack animation and, with its own script, it manages the damage that the enemy will receive</p>
@@ -172,7 +172,11 @@ alu0101202556
 
 <img src="/img/posts/enemy1.png" alt="Platformer" width="700"/>
 
+<br>
+
 <img src="/img/posts/enemy2.png" alt="Platformer" width="700"/>
+
+<br>
 
  * Behaviour scripts
 
