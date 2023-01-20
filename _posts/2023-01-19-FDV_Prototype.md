@@ -167,16 +167,16 @@ alu0101202556
  * Base script
 
 <p>All the enemies of the level define the abstract class *Enemy*, they need to define, at least, how they respond to the damage, because the behaviour of the enemies are defined in the animator.</p>
-<p>In this specific level, there are two enemies, one of them can shoot at the player and the other one needs to approach the player to hit him. They have the same components, the base script, a capsule collider, a rigidbody and an animator.
+<p>In this specific level, there are two enemies, one of them can shoot at the player and the other one needs to approach the player to hit him. They have the same components, the base script, a capsule collider, a rigidbody and an animator.</p>
 <p>The enemy who shoots at the player uses a pool of bullets who will be created when the enemy is initialized, for performance purposes.</p>
 
 <img src="/img/posts/enemy1.png" alt="Platformer" width="700"/>
 
-<br>
+<p>This is how the first enemy looks like.</p>
 
 <img src="/img/posts/enemy2.png" alt="Platformer" width="700"/>
 
-<br>
+<p>And this is how the second enemy looks like.</p>
 
  * Behaviour scripts
 
