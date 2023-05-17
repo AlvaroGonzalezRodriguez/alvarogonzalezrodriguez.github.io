@@ -1,0 +1,56 @@
+---
+layout: post
+title : PS4 Trophy System
+subtitle: Videojuegos para Plataformas Y Dispositivos Específicos
+date : 17/05/2023
+background: '/img/posts/PS4/trophies.png'
+---
+
+# Augmented Reality Project - AR Foundation.
+## Author: Álvaro González Rodríguez
+alu0101202556
+
+## About this project.
+<p>The objective of this project has been to implement a trophy system to a prototype. Basically, we I had to make these changes mainly:</p>
+<ol>
+    <li>Create a trophy system with Trophy Pack File Utility.</li>
+    <li>To install in the project Np Toolkit package.</li>
+    <li>To assign in the Player Setting the file of the trophies, the NP title and to assign to 0 the age qualification.</li>
+    <li>Create the "Trophy Manager" script</li>
+    <li>Initialize the script where you want to unlock a trophy.</li>
+</ol>
+<p>6 trophies have been added, being 2 gold, 3 silver and 1 bronze.</p>
+
+## Attack with everything: (SILVER)
+<p>You have to fire the charged attack (This is only activated when you have not destroyed any enemy or when you have destroyed a multiple of 10 of them, but as there are only two, we are left with the first restriction). You can't aim at the target, unfortunately. To perform the charged attack, hold down the L1 lever.</p>
+
+<img src="/img/posts/PS4/attack.png" alt="AttackAll" width="700"/>
+
+## Destroy a FWM-01: (GOLD)
+<p>You have to eliminate the enemy that is attacking from far away, the one on the left. By changing the movement input to PS4 the character does not look to the left when he goes to the left, so your attacks will only be directed to the right, so position yourself well to destroy him. To attack you have to press the X button.</p>
+
+<img src="/img/posts/PS4/fwm.png" alt="FWM-01" width="700"/>
+
+## Destroy a TWM-01: (GOLD)
+<p>You have to eliminate the enemy that is approaching to attack you, the one on the right. When this enemy makes a move it creates a shockwave that covers it, but as long as you keep attacking the enemy will continue to take damage. To attack you have to press the X button.</p>
+
+<img src="/img/posts/PS4/twm.png" alt="TWM-01" width="700"/>
+
+## Dodge!: (SILVER)
+<p>Dodge an attack. You also can't direct to where you are going to dodge. To dodge press the R1 toggle.</p>
+
+<img src="/img/posts/PS4/dodge.png" alt="Dodge!" width="700"/>
+
+## Connect Two: (SILVER)
+<p>Link your body with an explosive box. To do so, press the circle button and it will automatically link to the nearest one.</p>
+
+<img src="/img/posts/PS4/two.png" alt="Connect Two" width="700"/>
+
+## May the force be with you: (BRONZE)
+<p>Move a box which is connected to your body. To do this press the triangle button while you have a box attached, this will give a random force to the target.</p>
+
+<img src="/img/posts/PS4/force.png" alt="May the force be with you" width="700"/>
+
+<p>This is how the Trophies page looks!</p>
+
+<img src="/img/posts/PS4/trophies.png" alt="Trophies page" width="700"/>
